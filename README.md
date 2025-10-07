@@ -7,7 +7,7 @@
 
 ![Godot Engine](https://img.shields.io/badge/Godot-4.5-blue?logo=godot-engine&style=flat-square)
 ![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20Windows%20%7C%20Android-blue?style=flat-square)
-![License](https://github.com/Razorsixfive/CybarTera/blob/main/LICENSE)
+![License](https://img.shields.io/github/Razorsixfive/CybarTera/blob/main/LICENSE?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Pre--Alpha-orange?style=flat-square)
 
 ---
