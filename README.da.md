@@ -15,7 +15,7 @@
 ---
 
 ## 👤 Om Udvikleren
-Udviklet af **[Dit Navn]**, en **solo indie-udvikler** med fokus på:  
+Udviklet af **[Razorsixfive]**, en **solo indie-udvikler** med fokus på:  
 - **Backend-arkitektur & distribuerede systemer**  
 - **Skalerbar multiplayer-netværk**  
 - **Cross-platform udvikling** i **Custom compiled Godot 4.5 (4.6 vil komme)**  
@@ -81,7 +81,7 @@ Spillet understøtter **multiplayer-synkronisering, persistent verden** og **ska
 
 ### 🎨 Brugergrænseflade
 - Menuer med lyd, grafik og tasteindstillinger  
-- **28 sprog** understøttet  
+- **28 sprog** understøttet **midlertidigt disabled**  
 
 ### 🏠 Boliger & Instancer
 - Spillerlejligheder med fri eller grid-placering  

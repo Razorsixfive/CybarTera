@@ -83,7 +83,7 @@ Full multiplayer synchronization, persistent world data, modular region scaling,
 
 ### 🎨 Interface
 - Menus with audio, 3D graphics, and key mapping settings  
-- Localization: **28 languages supported**  
+- Localization: **28 languages supported**  **Dissabled for now** 
 
 ### 🏠 Housing & Instances
 - Player apartments with free or grid placement  
